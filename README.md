@@ -4,7 +4,7 @@
 
 - 首頁：https://teacher-liujikan.github.io/literacy-review/
 - 數學：https://teacher-liujikan.github.io/literacy-review/math/
-  - 三年級：111～114 年（四、五、六年級製作中）
+  - 三、四年級：111～115 年（五、六年級製作中）
   - 紙本檢討／平板線上測驗（老師一鍵切換，QR code 跟著變）
   - 分步詳解、借位直式動畫、錯題測驗、徽章收集
   - 老師挑題練習（依南一／康軒／翰林單元或學習內容），可匯出 Word／PDF
